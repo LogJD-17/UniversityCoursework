@@ -1,0 +1,45 @@
+Project | Data Science
+Opened: Wednesday, 13 November 2024, 12:00 AM
+Due: Monday, 13 January 2025, 12:00 PM
+In your coursework, you are to undertake a deep learning Tensorflow project and report your findings in a Jupyter notebook.
+
+In this track, Data Science, you would again attempt to find the best model for a particular dataset mostly using techniques from Topics 1 to 7. (Generative models are not excluded, but the thing to keep in mind here is the focu on finding the best model for a chosen task following Chollet's Universal Workflow, which can prove difficult cases where the tracked metrics do not entirely align with the desired results.)
+
+You can use the datasets mentioned in Deep Learning With Python or you can investigate another dataset.
+
+You can use as much Deep Learning With Python or lecture code as you wish (or anyone else's, as long as you have their permission, or it is in the public domain) – but you must reference all code that is not original. Credit will be awarded for model assembly using standard and third party code and extra credit may be obtained for original code.
+
+Whatever you decide, your project must include at least one of the deep learning techniques from Topics 5, 6 or 8 (DL for computer vision, DL for text and sequences and Generative DL).
+
+Extra credit is available for the deployment of one or more advanced best practices (Topic 7, or outside this course).
+
+Please note that I cannot give points for identification of optimal epochs, or understanding of overfitting, or even automation, if you use hyperparameter optimisation libraries like `Keras Tuner` or a dedicated library! If you were to use it, you would still have to have manual code showing that you can do these things (identification of optimal epochs based on validation data, writing functions to make your workflow more modular, retraining your final model using the best hyperparameters, until the optimal epoch, using your entire training data).
+
+Credit
+ (up to 70 marks)
+
+- Report structure and quality as a document (avoid excessive repetition)
+- Adherence to the DL workflow: common sense baselines, identification and reduction of overfitting, retraining of final model with best hyperparameters
+- Setting up experiments, drawing conclusions, conducting a systematic hyperparameter investigation
+- Interpretation of results
+- Clean, modular code
+
+Extra credit
+
+(up to 30 marks)
+
+- A dataset external to DLWP and tensorflow
+- Use/study of trained model (manual testing/examination of successful/failed cases)
+- Use/experimentation with techniques not seen in class
+
+Submission
+
+- Reference any pretrained model and all datasets
+- Reference any code that is not original
+- Reference any other source e.g. books, Kaggle
+
+Write a structured, readable Jupyter report.
+
+Submit a single ZIP file containing your executed Jupyter notebook (optionally also an html export). Include a sub-folder with produced outputs, and/or intermediary results, if needed.
+
+If you use large datasets or pretrained models, please add external download links and/or describe the steps required to obtain those, rather than include them in the submission.
