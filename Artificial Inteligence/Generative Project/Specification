@@ -1,0 +1,39 @@
+Project | Generative
+Opened: Wednesday, 13 November 2024, 12:00 AM
+Due: Monday, 13 January 2025, 12:00 PM
+In your coursework, you are to undertake a deep learning Tensorflow project and report your findings in a Jupyter notebook.
+
+In this track, Generative, your project will explore at least one of the generative approaches described in topic 8 (Generative DL). It should be a structured, creative project based on the generative models introduced in Topic 8 (Deep Learning With Python chapter 12). It is highly recommended to use the code in this year's lecture notebooks instead of the book examples as a starting point, as updates have been introduced.
+
+Having chosen one architecture (ore more), you would typically create original pieces using it, with additional credit for changes and extensions to the code, and an exploration of the capability of a generative technique, and/or novel applications. Even as you use lecture code, please make sure to start a new notebook for your submission, selecting only what you need, instead of just modifying a copy of the lecture notebook.
+
+Credit is given for interesting or original ideas chosing datasets/data samples to work on, as well as the originality and thoroughness you display when creating new samples with your chosen method.
+
+You can use as much Deep Learning With Python or lecture code as you wish (or anyone else's, as long as you have their permission, or it is in the public domain) – but you must reference all code that is not original. Credit will be awarded for model assembly using standard and third party code and extra credit may be obtained for original code.
+
+Credit
+ (up to 70 marks)
+
+- Report structure and quality as a document
+- Code quality and cleanliness
+- Choice of dataset/original data samples
+- Use of generative modelling to produce data
+- Quality/originality/thoroughness when creating new samples
+
+Extra credit
+
+(up to 30 marks)
+
+- Automation and systematic investigation of the chosen architecture/technique
+- Interpretation of results/Understanding of the techniques used
+- Advanced techniques and/or material not covered in class
+
+Submission
+
+- Reference any pretrained model and all datasets
+- Reference any code that is not original
+- Reference any other source e.g. books, Kaggle
+
+Write a structured, readable report of your process as a Jupyter notebook, detailing the steps you took to gather the dataset, or experiment with the model you chose.
+
+Submit a single ZIP file containing your executed Jupyter notebook (optionally also an html export), as well as your produced outputs, and intermediary results. I recommend that you take some care to organise your outputs (for instance having subfolders), rather than only having them in the notebook itself.
